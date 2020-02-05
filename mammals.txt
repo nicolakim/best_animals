@@ -1,0 +1,7 @@
+giraffes
+dogs
+cats
+elephants
+tigers
+foxes
+deer
